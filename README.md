@@ -7,9 +7,10 @@
 </div>
 <br>
 
+## O resultado do programa é relativo o nível de conhecimento do programador
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="150" alt="coding-time" src="code.gif">
    </div>
   
   <h1 align="center">Redes Sociais</h1>
