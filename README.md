@@ -24,6 +24,6 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-
+<br>
 
 ![Snake animation](https://github.com/LucasBrito162/LucasBrito162/blob/output/github-contribution-grid-snake.svg)
