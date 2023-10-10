@@ -1,16 +1,27 @@
-### Hi there 👋
+## Eai dev, Lucas Aqui!
 
-<!--
-**LucasBrito162/LucasBrito162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasBrito162&theme=github_dark"/>
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasBrito162&theme=github_dark"/>
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasBrito162&theme=github_dark&utcOffset=8"/>
+</div>
+<br>
 
-Here are some ideas to get you started:
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+   </div>
+  
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: lucas162257@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/lucasdebritonunes">
+      <img width="25" src="linkedin.svg">
+    </a>
+    <a href = "https://www.instagram.com/lucas.brito07?igshid=OGQ5ZDc2ODk2ZA==">
+      <img width="25" src="instagram.png">
+    </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/LucasBrito162/LucasBrito162/blob/output/github-contribution-grid-snake.svg)
